@@ -12,5 +12,7 @@ Include Dultis
 Este gamemode pertence ao Brasil Mega Trucker, cujo foi comprado do Transportando o Brasil. 
 A base deste é de autoria de PowerPC603, e edição é de autoria de Brendon.
 
-Nós somos humildes em divulgar dados, cujo outros servidores mantem em sigilo.
+# Utilização
+Este gamemode é de 2011, houve apenas adaptações para o ramo atual do SA-MP, ou seja nenhuma novidade.
+
 
