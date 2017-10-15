@@ -3,10 +3,13 @@ Onde o grande sucesso começou, agora disponível para estudos.
 
 
 # Requesitos
-Plugin STREAMER
-Plugin SSCANF
-Include ZCMD
-Include Dultis
+Plugin STREAMER;
+
+Plugin SSCANF;
+
+Include ZCMD;
+
+Include Dultis;
 
 # Sobre
 Este gamemode pertence ao Brasil Mega Trucker, cujo foi comprado do Transportando o Brasil. 
